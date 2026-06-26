@@ -1,16 +1,3 @@
 {
-  "versions": [
-    {
-      "id": "vL5ALIYA V1_1782501625108",
-      "version": "L5ALIYA V1",
-      "filename": "L5aliya.dll",
-      "storedFilename": "1782501625108_L5aliya.dll",
-      "filesize": 7177728,
-      "description": "No description",
-      "timestamp": 1782501625108,
-      "downloads": 1,
-      "isLatest": true,
-      "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782501625108_L5aliya.dll"
-    }
-  ]
+  "versions": []
 }
