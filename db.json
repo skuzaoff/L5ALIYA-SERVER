@@ -1,18 +1,6 @@
 {
   "versions": [
     {
-      "id": "vV0.1_1782536061525",
-      "version": "V0.1",
-      "filename": "L5aliya.vmp.dll",
-      "storedFilename": "1782536061525_L5aliya.vmp.dll",
-      "filesize": 10940928,
-      "description": "No description",
-      "timestamp": 1782536061525,
-      "downloads": 0,
-      "isLatest": false,
-      "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782536061525_L5aliya.vmp.dll"
-    },
-    {
       "id": "vV1.1_1782587062258",
       "version": "V1.1",
       "filename": "L5aliya.dll",
