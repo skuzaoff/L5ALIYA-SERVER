@@ -21,8 +21,20 @@
       "description": "No description",
       "timestamp": 1782586366845,
       "downloads": 0,
-      "isLatest": true,
+      "isLatest": false,
       "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782586366845_L5aliya.dll"
+    },
+    {
+      "id": "vBY LINUX_1782587026001",
+      "version": "BY LINUX",
+      "filename": "SUPER NOVA.dll",
+      "storedFilename": "1782587026001_SUPER NOVA.dll",
+      "filesize": 4018176,
+      "description": "No description",
+      "timestamp": 1782587026001,
+      "downloads": 0,
+      "isLatest": true,
+      "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782587026001_SUPER%20NOVA.dll"
     }
   ]
 }
