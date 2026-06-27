@@ -23,6 +23,18 @@
       "downloads": 0,
       "isLatest": false,
       "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782586366845_L5aliya.dll"
+    },
+    {
+      "id": "vV1.1_1782587062258",
+      "version": "V1.1",
+      "filename": "L5aliya.dll",
+      "storedFilename": "1782587062258_L5aliya.dll",
+      "filesize": 7622656,
+      "description": "No description",
+      "timestamp": 1782587062258,
+      "downloads": 0,
+      "isLatest": true,
+      "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782587062258_L5aliya.dll"
     }
   ]
 }
