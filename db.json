@@ -9,8 +9,20 @@
       "description": "No description",
       "timestamp": 1782506439150,
       "downloads": 0,
-      "isLatest": true,
+      "isLatest": false,
       "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782506439150_L5aliya.vmp.dll"
+    },
+    {
+      "id": "vV1_1782535555566",
+      "version": "V1",
+      "filename": "L5aliya.vmp.dll",
+      "storedFilename": "1782535555566_L5aliya.vmp.dll",
+      "filesize": 10942976,
+      "description": "No description",
+      "timestamp": 1782535555566,
+      "downloads": 0,
+      "isLatest": true,
+      "downloadUrl": "https://raw.githubusercontent.com/skuzaoff/L5ALIYA-SERVER/main/files/1782535555566_L5aliya.vmp.dll"
     }
   ]
 }
